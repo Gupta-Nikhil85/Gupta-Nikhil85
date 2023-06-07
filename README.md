@@ -17,6 +17,7 @@
 <h1 align="center"><strong>Contributions:</strong></h1>
 <p align="center">
     <img src= "https://activity-graph.herokuapp.com/graph?username=gupta-nikhil85&theme=react-dark&hide_border=true">
+    <h2 align="center">Jatin Garg</h2>
 </p> 
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
